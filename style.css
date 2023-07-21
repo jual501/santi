@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    
+}
+h1 {
+   text-align: center; 
+   font-family: monospace;
+   color: blueviolet;
+   
+}
+h2 {
+    text-align: center; 
+    font-family: monospace;
+    color: blueviolet;
+ }
+ h3 {
+    text-align: center; 
+    font-family: monospace;
+    color: blueviolet;
+ }
+button {
+    color: aqua;
+    background-color: brown;
+}
